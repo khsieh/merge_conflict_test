@@ -5,7 +5,7 @@ public class Raptor extends Bird {
 	static { System.out.println("r1");}
 	public Raptor() {
 		//super()
-		System.out.println("Raptor");
+		System.out.println("r2");
 		System.out.println("!!");
 	}
 	{System.out.println("r3");}
