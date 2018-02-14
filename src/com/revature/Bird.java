@@ -5,7 +5,7 @@ public class Bird {
 	
 	Bird(){
 		//super();
-		System.out.println("b2");
+		System.out.println("bird!!");
 	}
 	static {System.out.println("b3");}
 	
