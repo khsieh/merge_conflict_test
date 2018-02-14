@@ -5,6 +5,7 @@ public class Hawk extends Raptor {
 		System.out.println("init");
 		new Hawk();
 		System.out.println("hawk");
+		new Hawk();
 	}
 	public Hawk() {
 		//super();
