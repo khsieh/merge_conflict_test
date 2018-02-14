@@ -7,6 +7,7 @@ public class Hawk extends Raptor {
 		new Hawk();
 		System.out.println("hawk");
 		new Hawk();
+		System.out.println("MERGE??");
 	}
 	public Hawk() {
 		//super();
